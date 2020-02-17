@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://vigorous-wilson-1a7f27.netlify.com]()
+* Link to the website deployed on Netlify : [Discover Netlify](https://vigorous-wilson-1a7f27.netlify.com)
